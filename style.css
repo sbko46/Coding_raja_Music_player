@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: #1c1c1c;
+    color: rgb(233, 17, 17);
+  }
+  
+  .btn {
+    background-color: transparent;
+    color: rgb(232, 214, 12);
+    font-size: 30px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .controls {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btn:hover {
+    color: rgb(222, 65, 22);
+  }
+  
+  .playing {
+    text-align: center;
+    
+  }
+  
+  
